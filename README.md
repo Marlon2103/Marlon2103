@@ -1,12 +1,10 @@
 ### olá ! Eu sou o Marlon2103.
 
 
-- 🌱 Estudando back-end e front-end
-- 👯 I’m looking to collaborate on : Ajudar iniciantes:
+- 🌱 Estudando Testes manuais e Automatizados
 - 🤔 I’m looking for help with : Alguns topicos.
 - 💬 Contate me no email: marlonprogrammer@gmail.com
 - 📫 How to reach me: always online
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: i`m watch movies every days.
 
 <div align="center">
